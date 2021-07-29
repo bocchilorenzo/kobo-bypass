@@ -12,9 +12,10 @@ Setup your Kobo e-reader without creating an account. This is a port of the inst
 
 Tested on Windows 10 with a Kobo Glo HD with OS version 4.26.16704 (updated on 10th February 2021)
 
-### Note
+### Notes
 
-The e-reader path can be copied from the URL bar in the file manager. For example, it could be "D:\\" on Windows.
+- The e-reader path can be copied from the URL bar in the file manager. For example, it could be "D:\\" on Windows.
+- It's important to unmount the device (like any usb drive) before removing it
 
 ## Todo
 
