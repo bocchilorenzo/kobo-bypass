@@ -1,7 +1,7 @@
 {
   "name": "kobo-bypass",
   "version": "1.0.0",
-  "description": "Setup your Kobo ereader without creating an account",
+  "description": "Setup your Kobo e-reader without creating an account",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -13,7 +13,7 @@
     "account"
   ],
   "author": "Lorenzo Bocchi",
-  "license": "MIT",
+  "license": "GPLv3",
   "dependencies": {
     "knex": "^0.95.8",
     "readline-sync": "^1.4.10",
